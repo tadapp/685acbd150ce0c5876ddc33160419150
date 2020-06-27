@@ -1,0 +1,2 @@
+# 685acbd150ce0c5876ddc33160419150
+App id E09EA-118AA-BF2E3-1FAC2-DA2B0, version name - baku
